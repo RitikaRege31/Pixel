@@ -33,11 +33,11 @@ const HomeSearch = ({
       <p className={styles["homesearch-footer"]}>
         Made with <HeartIcon fill={"#2c2c2c"} fillOpacity={"1"} /> by{" "}
         <a
-          href="https://www.linkedin.com/in/vaibhav-sharma-front-end/"
+          href="https://www.linkedin.com/in/ritika-rege/"
           target="_blank"
           rel="noreferrer"
         >
-          Vaibhav
+          Ritika
         </a>
       </p>
     </section>
